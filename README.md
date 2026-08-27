@@ -36,26 +36,13 @@ This repository tracks my complete placement preparation journey — DSA practic
 
 ## 📖 Table of Contents
 
-- [👨‍💻 About Me](#-about-me)
-- [📖 Table of Contents](#-table-of-contents)
-- [🧠 What You'll Find Here](#-what-youll-find-here)
-- [🗺️ Learning Roadmap](#️-learning-roadmap)
-- [📚 Chapter-wise Repository Contents](#-chapter-wise-repository-contents)
-  - [Apna-College-CPP](#apna-college-cpp)
-  - [DSA](#dsa)
-  - [Fight with DSA](#fight-with-dsa)
-  - [LeetCode](#leetcode)
-  - [Other](#other)
-- [🗂️ Repository Structure](#️-repository-structure)
-- [🛠️ Tech Stack](#️-tech-stack)
-- [📊 Language Stats](#-language-stats)
-- [🎯 2026 Placement Goals](#-2026-placement-goals)
-- [🕒 Repository Journey / Git History](#-repository-journey--git-history)
-- [📚 Documentation Status](#-documentation-status)
-- [📌 Repository Motto](#-repository-motto)
-- [👨‍💻 Author & Maintainer](#-author--maintainer)
-- [🤝 Connect With Me](#-connect-with-me)
-- [🔄 Last Updated](#-last-updated)
+| Chapter | Section | Description | Navigate |
+|---|---|---|---|
+| Chapter 1 | Apna-College-CPP | Guided C++/DSA course progression and class resources | [Open](./Apna-College-CPP/) |
+| Chapter 2 | DSA | Core topic-wise Data Structures & Algorithms practice | [Open](./DSA/) |
+| Chapter 3 | Fight with DSA | Structured lecture, homework, lecture-code, and question-driven practice | [Open](./Fight%20with%20DSA/) |
+| Chapter 4 | LeetCode | Interview-style problem solving and coding consistency | [Open](./LeetCode/) |
+| Chapter 5 | Other | Supporting placement-preparation resources and miscellaneous files | [Open](./Other/) |
 
 ---
 
@@ -71,60 +58,60 @@ This repository tracks my complete placement preparation journey — DSA practic
 
 ## 🗺️ Learning Roadmap
 
-- **Foundation Layer**
-  - C/C++ basics and syntax practice
-  - Logic building through intro-level problems
-- **Core DSA Layer**
-  - Topic-wise progression in `DSA`
-  - Guided course-based practice in `Apna-College-CPP`
-- **Structured Practice Layer**
-  - Chapter/lecture-driven journey in `Fight with DSA`
-  - Homework and question-wise execution
-- **Interview Layer**
-  - Problem-solving through `LeetCode`
-  - Miscellaneous and supporting resources in `Other`
+This repository reflects the following practical progression:
+
+1. **Foundation (C/C++ Basics)**
+   - Core syntax, input/output, control flow, loops, and basic logic building.
+2. **Structured Course Learning (Apna-College-CPP)**
+   - Course-led progression with C++ and early DSA problem solving.
+3. **Topic Mastery (DSA)**
+   - Dedicated DSA topic practice and concept reinforcement.
+4. **Lecture → Homework → Lecture Code → Questions (Fight with DSA)**
+   - Lecture-first learning, followed by implementation and question practice.
+5. **Interview Problem Solving (LeetCode + Other)**
+   - Timed/problem-centric thinking and placement preparation refinement.
 
 ---
 
 ## 📚 Chapter-wise Repository Contents
 
-### Apna-College-CPP
-- Path: [`Apna-College-CPP/`](https://github.com/raeeszadah/Placement-Prepration/tree/main/Apna-College-CPP)
-- Includes:
-  - Main course notes and progression
-  - `Cpp-DSAClasses-main/` code set
+### Chapter 1 — Apna-College-CPP
+- **Context:** Guided C++ and DSA preparation path.
+- **Important Subsections:**
+  - [`Apna-College-CPP/`](./Apna-College-CPP/)
+  - [`Apna-College-CPP/Cpp-DSAClasses-main/`](./Apna-College-CPP/Cpp-DSAClasses-main/)
 
-### DSA
-- Path: [`DSA/`](https://github.com/raeeszadah/Placement-Prepration/tree/main/DSA)
-- Includes:
-  - Data Structures and Algorithms practice materials
+### Chapter 2 — DSA
+- **Context:** Topic-oriented practice repository for data structures and algorithms.
+- **Important Subsections:**
+  - [`DSA/`](./DSA/)
 
-### Fight with DSA
-- Path: [`Fight with DSA/`](https://github.com/raeeszadah/Placement-Prepration/tree/main/Fight%20with%20DSA)
+### Chapter 3 — Fight with DSA
+- **Context:** Lecture-based learning system with practice progression.
+- **Important Subsections:**
+  - Main section: [`Fight with DSA/`](./Fight%20with%20DSA/)
 
-#### Chapter: 01 Intro
-- Path: [`Fight with DSA/01 Intro/`](https://github.com/raeeszadah/Placement-Prepration/tree/main/Fight%20with%20DSA/01%20Intro)
-- Lecture navigation:
-  - [`Lecture_004`](https://github.com/raeeszadah/Placement-Prepration/tree/main/Fight%20with%20DSA/01%20Intro/Lecture_004)
-  - [`Lecture_005`](https://github.com/raeeszadah/Placement-Prepration/tree/main/Fight%20with%20DSA/01%20Intro/Lecture_005)
-- Homework & questions:
-  - Refer chapter index: [`Fight with DSA/01 Intro/README.md`](https://github.com/raeeszadah/Placement-Prepration/blob/main/Fight%20with%20DSA/01%20Intro/README.md)
-  - Repository-level notes: [`Fight with DSA/readme.md`](https://github.com/raeeszadah/Placement-Prepration/blob/main/Fight%20with%20DSA/readme.md)
+#### Fight with DSA Learning Flow
+- **Lecture:** [`Fight with DSA/01 Intro/Lecture_004/`](./Fight%20with%20DSA/01%20Intro/Lecture_004/) and [`Fight with DSA/01 Intro/Lecture_005/`](./Fight%20with%20DSA/01%20Intro/Lecture_005/)
+- **Homework:** Refer chapter-level index [`Fight with DSA/01 Intro/README.md`](./Fight%20with%20DSA/01%20Intro/README.md)
+- **Lecture Code:** Present inside lecture folders such as [`Lecture_004`](./Fight%20with%20DSA/01%20Intro/Lecture_004/) and [`Lecture_005`](./Fight%20with%20DSA/01%20Intro/Lecture_005/)
+- **Questions:** Tracked through module notes and chapter readme files
 
-#### Additional Fight with DSA modules
-- [`FlowChart/`](https://github.com/raeeszadah/Placement-Prepration/tree/main/Fight%20with%20DSA/FlowChart)
-- [`fuction/`](https://github.com/raeeszadah/Placement-Prepration/tree/main/Fight%20with%20DSA/fuction)
-- [`pattern/`](https://github.com/raeeszadah/Placement-Prepration/tree/main/Fight%20with%20DSA/pattern)
+#### Additional Documented Paths (existing)
+- [`Fight with DSA/01 Intro/`](./Fight%20with%20DSA/01%20Intro/)
+- [`Fight with DSA/FlowChart/`](./Fight%20with%20DSA/FlowChart/)
+- [`Fight with DSA/fuction/`](./Fight%20with%20DSA/fuction/)
+- [`Fight with DSA/pattern/`](./Fight%20with%20DSA/pattern/)
 
-### LeetCode
-- Path: [`LeetCode/`](https://github.com/raeeszadah/Placement-Prepration/tree/main/LeetCode)
-- Includes:
-  - LeetCode problem-solving practice
+### Chapter 4 — LeetCode
+- **Context:** Interview-focused coding challenge preparation.
+- **Important Subsections:**
+  - [`LeetCode/`](./LeetCode/)
 
-### Other
-- Path: [`Other/`](https://github.com/raeeszadah/Placement-Prepration/tree/main/Other)
-- Includes:
-  - Additional placement-prep materials
+### Chapter 5 — Other
+- **Context:** Additional placement-preparation assets and references.
+- **Important Subsections:**
+  - [`Other/`](./Other/)
 
 ---
 
@@ -134,6 +121,7 @@ This repository tracks my complete placement preparation journey — DSA practic
 Placement-Prepration/
 ├── .vscode/
 ├── Apna-College-CPP/
+│   └── Cpp-DSAClasses-main/
 ├── DSA/
 ├── Fight with DSA/
 │   ├── 01 Intro/
@@ -179,25 +167,26 @@ Placement-Prepration/
 
 ---
 
-## 🕒 Repository Journey / Git History
+## 🕒 Repository Journey
 
-This repository represents an ongoing, day-by-day preparation journey.
+- **Earliest activity:** 2025-08-26
+- **Major milestones:**
+  - 2025-08-26 — Initial repository setup and early preparation structure
+  - 2025-08-31 — Expansion of learning folders and practice materials
+  - 2026-08-27 — Documentation enhancement with navigation and chapter-wise indexing
+- **Latest update:** 2026-08-27
 
-- Track all commits here: [Commit History](https://github.com/raeeszadah/Placement-Prepration/commits/main)
-- Track branch timeline here: [Network Graph](https://github.com/raeeszadah/Placement-Prepration/network)
-- Follow progress through topic folders and lecture-wise additions.
+Reference: [Commit History](https://github.com/raeeszadah/Placement-Prepration/commits/main)
 
 ---
 
 ## 📚 Documentation Status
 
-- Root documentation: `README.md` ✅
-- Folder-level documentation currently present:
-  - `Apna-College-CPP/README.md`
-  - `Apna-College-CPP/Cpp-DSAClasses-main/README.md`
-  - `Fight with DSA/readme.md`
-  - `Fight with DSA/01 Intro/README.md`
-- Remaining folders are being updated progressively with practice content.
+This is an **actively evolving placement-preparation repository**.
+
+- Core homepage documentation is maintained in `README.md`.
+- Folder-level documentation exists where currently available.
+- Additional chapter-level notes and indexes are being expanded over time as learning progresses.
 
 ---
 
@@ -228,7 +217,7 @@ This repository represents an ongoing, day-by-day preparation journey.
 ## 🔄 Last Updated
 
 - **Date:** 2026-08-27
-- **Scope:** Added professional navigation and repository documentation sections
+- **Scope:** README.md navigation, chapter documentation, structure mapping, and history timeline synced with repository state.
 
 ---
 
